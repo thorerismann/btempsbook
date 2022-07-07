@@ -1,0 +1,8 @@
+# Table of contents for the pilot project for Biel's summer temp measuremens
+
+format: jb-book
+root: intro.md
+chapters:
+- file: introduction.md
+- file: lcz.md
+- file: sites.md
