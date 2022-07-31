@@ -10,11 +10,3 @@ The urban heat island effect is the difference between built-up areas and surrou
 
 ## About
 I (Gabrial Erismann) am a master candidate with the Oeschger Center for Climate Change at the University of Bern. This project is run in coordination with the Geographical Institute of the University of Bern and the city of Biel/Bienne and hammerdirt assocation.
-
-# Wie heiß ist es in Biel?
-
-German translation incoming
-
-# Quelle est la température estivale dans la ville de Bienne ?
-
-French translation incoming

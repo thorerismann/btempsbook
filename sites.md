@@ -2,7 +2,7 @@
 
 Seven sensors were placed in strategic locations for this pilot project. Five locations are in the city of Biel/Bienne (log_1 - log_5) and two reference locations were set up as well. The first is a rural reference (log_6) located between Biel and Orpund and the second (log_7) is referenced to the SwissMeteo Automatic Weather Station network in Grenchen airport. All sensors were placed at three meter heights above the ground.
 
-Additional photos available upon request.
+Additional photos available upon request. Photos taken by Dr. Moritz Gruber and Gabrial Erismann the day of installation on July 08th 2022.
 
 ```{list-table} sites
 :header-rows: 1
