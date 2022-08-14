@@ -7,28 +7,28 @@ Additional photos available upon request. Photos taken by Dr. Moritz Gruber and 
 ```{list-table} sites
 :header-rows: 1
 
-* - Site Name
+* - Site Name + Installation / Reading dates
   - Description
   - Photo
-* - log_1 - Schiffländte / Débarquement
+* - log_1 - Schiffländte / Débarquement (installed 08.07.2022, reading 1 12.08.2022)
   - The sensor is attached to a tall light/utility pole near the lake front to capture the local effect of the lake on air temperature.
   - ![log_1](figures/sites/log_1.jpg)
-* - log_2 - Robert-Walser-Platz / Place Robert Walser
+* - log_2 - Robert-Walser-Platz / Place Robert Walser (installed 08.07.2022, reading 1 12.08.2022)
   - Sensor attached to a lightpole near a large construction site and the main train station.
   - ![log_2](figures/sites/log_2.jpg)
-* - log_3 - Zentralplatz / Place Centrale
+* - log_3 - Zentralplatz / Place Centrale (installed 08.07.2022, reading 1 13.08.2022)
   - Sensor attached to a utility pole at the edge of Zentralplatz/Place Centrale.
   - ![log_3](figures/sites/log_3.jpg)
-* - log_4 - Stadtpark / Parc Municipal
+* - log_4 - Stadtpark / Parc Municipal (installed 08.07.2022, reading 1 11.08.2022)
   - Sensor attached to a lightpole as far as possible from the many old trees in the park.
   - ![log_4](figures/sites/log_4.jpg)
-* - log_5 - Schüssinsel / Île de la Suze
+* - log_5 - Schüssinsel / Île de la Suze (installed 08.07.2022, reading 1 13.08.2022)
   - Sensor attached to a lightpole located on the Île de la Suze, a recently renovated and widely celebrated park in the heart of the city.
   - ![log_5](figures/sites/log_5.jpg)
-* - log_6 - Rural Reference
+* - log_6 - Rural Reference (installed 08.07.2022, reading 1 13.08.2022)
   - Sensor attached to a wooden post, which is itself attached to a concrete post in a rural area just outside the city. 
   - ![log_6](figures/sites/log_6.jpg)
-* - log_7 - SwissMeteo Reference
+* - log_7 - SwissMeteo Reference (installed 08.07.2022, reading 1 14.08.2022)
   - Sensor attached to a wooden post, which is itself attached to a chainlink fence surrounding the Swiss metnet automatic weather station.
   - ![log_7](figures/sites/log_7.jpg)
 ```

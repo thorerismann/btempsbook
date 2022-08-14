@@ -81,6 +81,9 @@ target/
 # exclude build folder for jupyter book
 /_build/
 
+# exclude figures folder
+/figures/
+
 # Mac OS-specific storage files
 .DS_Store
 
