@@ -1,7 +1,6 @@
 # Local Climate Zones of Biel/Bienne
 
-An additional layer of complexity in the air temperature profile of any urban area is the variation in the canopy layer due to different ground-level features. Local Climate Zone (LCZ) can be defined *as regions of uniform surface cover, structure, material, and human activity that span
-hundreds of meters to several kilometers in horizontal scale* {cite}`lcz2012`. Ideally, these regions shold be uniform, but in actuality there is little uniformity, especially on the scale of a small city like Biel/Bienne with a complex topography. Nonetheless, the resulting classificaiton can be useful for model analysis and plannign purposes. The image below from {cite}`Demuzere2021` provides information on the 17 different zones under the classification.
+One layer feature of urban environments that strongly influences local air temperature is a high variation in the canopy layer that *urban* can mean. Ranging from sky rises to tesnt cities, to city parks, the urban environment varies dramatically, and thus so does the urban heat island effect. Local Climate Zone (LCZ) can be defined *as regions of uniform surface cover, structure, material, and human activity that span hundreds of meters to several kilometers in horizontal scale* {cite}`lcz2012`. Achieving uniform LCZs  uniformity in a relatively small city like Biel/Bienne with a complex topography is difficult, nonetheless the resulting classification provides a useful first classification of the expected results of air temperature measurements in different parts of the city. The image below from {cite}`Demuzere2021` provides information on the 17 different zones under the classification.
 
 ```{figure} figures/lcz/class_lcz.png
 ---
@@ -48,4 +47,3 @@ name: lcz-2
 ---
 A possible LCZ map of Biel/Bienne made from data classifications fed into the LCZ tool.
 ```
-
